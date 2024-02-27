@@ -8,7 +8,6 @@ First, clone the repo and install the dependencies with
 npm i
 ```
 
-
  Next start the development server:
 
 ```bash
