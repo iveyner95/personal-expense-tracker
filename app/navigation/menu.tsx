@@ -1,13 +1,11 @@
+import { Title } from './title'
 
 export const Menu = () => {
   return (
     <div className="bg-gray-200 font-sans">
       <div className="flex flex-col sm:flex-row sm:justify-around">
         <div className="w-64 h-screen bg-gray-800">
-
-          <div className="flex items-center justify-center mt-10">
-            <div className="text-gray-100 font-bold">Personal Expense Tracker</div>
-          </div>
+          <Title />
 
           <nav className="mt-10">
             <div>
