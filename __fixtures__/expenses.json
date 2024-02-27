@@ -1,3 +1,11 @@
 {
-  "expenses": []
+  "expenses": [
+    {
+      "number": 1,
+      "category": "Food",
+      "vendor": "Uber Eats",
+      "description": "",
+      "created": "2/26/2024"
+    }
+  ]
 }
