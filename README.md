@@ -1,4 +1,4 @@
-# Sofar Ocean Take Home Assignment: Personal Expense Tracker
+# Take Home Assignment: Personal Expense Tracker
 
 ## Getting Started
 
