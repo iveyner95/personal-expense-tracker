@@ -4,7 +4,7 @@
       "number": 1,
       "category": "Food",
       "amount": 45.43,
-      "vendor": "Uber Eats",
+      "vender": "Uber Eats",
       "description": "Wednesday night meal",
       "created": "2/26/2024"
     },
@@ -12,7 +12,7 @@
       "number": 2,
       "category": "Travel",
       "amount": 30.23,
-      "vendor": "Uber",
+      "vender": "Uber",
       "description": "Uber to dinner",
       "created": "2/27/2024"
     },
@@ -20,7 +20,7 @@
       "number": 3,
       "category": "Education",
       "amount": 10.00,
-      "vendor": "Duolingo",
+      "vender": "Duolingo",
       "description": "Duolingo monthly subscription",
       "created": "2/28/2024"
     },
@@ -28,7 +28,7 @@
       "number": 4,
       "category": "unknown",
       "amount": 378.57,
-      "vendor": "JetBlue",
+      "vender": "JetBlue",
       "description": "Flight to Hong Kong",
       "created": "2/29/2024"
     }

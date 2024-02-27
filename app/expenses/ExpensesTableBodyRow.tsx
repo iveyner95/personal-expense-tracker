@@ -1,4 +1,3 @@
-import React from "react";
 import { Expense } from "../types";
 import { CategoryChip } from "./CategoryChip";
 import { MoreOptions } from "./MoreOptions";
@@ -28,13 +27,13 @@ export const ExpensesTableBodyRow = ({ expense }: ExpensesTableBodyRowProps) => 
 
       <td className="px-4 py-4 text-sm whitespace-nowrap">
         <div className="flex items-center text-gray-700 dark:text-gray-200">
-          {expense.vendor}
+          {expense.vender}
         </div>
       </td>
 
       <td className="px-4 py-4 text-sm whitespace-nowrap">
         <div>
-          <p className="text-gray-700 dark:text-gray-200">
+          <p className="text-gray-500 dark:text-gray-200">
             {expense.description}
           </p>
         </div>
